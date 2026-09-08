@@ -1,0 +1,16 @@
+{
+  "name": "珀翔diary",
+  "short_name": "珀翔diary",
+  "description": "保育園での珀翔の毎日を、家族で振り返る日記",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#f5faff",
+  "theme_color": "#176c9f",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
